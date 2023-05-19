@@ -1,4 +1,4 @@
-# Example of Node.js Request-Response Server
+# Example of Node.js Request-Response
 This is an example of a basic Node.js HTTP server that demonstrates the concept of request-response interaction.
 
 ## Prerequisites
