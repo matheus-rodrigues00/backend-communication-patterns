@@ -1,0 +1,1 @@
+Lorem (text from inside a file)
