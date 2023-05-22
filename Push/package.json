@@ -1,0 +1,15 @@
+{
+  "name": "push",
+  "version": "1.0.0",
+  "description": "simple push implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Teteu",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
